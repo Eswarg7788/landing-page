@@ -1,0 +1,75 @@
+.layout{
+    border: 1px solid white;
+    height: 450px;
+    width: 500px;
+    background-color:rgb(73, 194, 73);
+    margin-left: 450px;
+    margin-top: 80px;
+}
+.list{
+    border: 1px solid white;
+    border-radius: 15px;
+    width: 450px;
+    height: 375px;
+    margin-left: 24px;
+    margin-top: 30px;
+    background-color: white;
+}
+.do{
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+.ww{
+    position: relative;
+    left: 30px;
+    top: 20px;
+    color: rgb(185, 185, 185);
+}
+.es{
+    position: relative;
+    border: rgb(54, 146, 222);
+    background-color: rgb(54, 146, 222);
+    color: white;
+    border-radius: 10px;
+    left: 50px;
+    top: 10px;
+    height: 30px;
+    width: 60px;
+}
+.kk{
+    position: relative;
+    left: 30px;
+    top: 10px;
+}
+.oo{
+    margin-left: 60px;
+    margin-top: 50px;
+    width: 350px;
+}
+.dd{
+    background-color: rgb(185, 185, 185);
+}
+.cc{
+    border-radius: 20px;
+    width: 150px;
+    border: rgb(54, 146, 222);
+    background-color: rgb(54, 146, 222);
+    color: white;
+    margin-top:30px;
+    margin-left: 30px;
+}
+.cs{
+    border-radius: 20px ;
+    color: white;
+    background-color: brown;
+    border: brown;
+    margin-left: 10px;
+}
+.cd{
+    border:rgb(35, 188, 50);
+    background-color: rgb(35, 188, 50);
+    color: white;
+    border-radius: 20px;
+    margin-left: 10px;
+}
